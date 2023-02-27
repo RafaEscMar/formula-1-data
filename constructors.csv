@@ -1,0 +1,140 @@
+constructorId,year,constructorRef,name,nationality,url
+1,2010,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+2,2010,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+3,2010,hrt,HRT,Spanish,http://en.wikipedia.org/wiki/Hispania_Racing
+4,2010,lotus_racing,Lotus,Malaysian,http://en.wikipedia.org/wiki/Lotus_Racing
+5,2010,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+6,2010,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+7,2010,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+8,2010,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+9,2010,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+10,2010,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+11,2010,virgin,Virgin,British,http://en.wikipedia.org/wiki/Virgin_Racing
+12,2010,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+13,2011,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+14,2011,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+15,2011,hrt,HRT,Spanish,http://en.wikipedia.org/wiki/Hispania_Racing
+16,2011,lotus_racing,Lotus,Malaysian,http://en.wikipedia.org/wiki/Lotus_Racing
+17,2011,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+18,2011,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+19,2011,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+20,2011,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+21,2011,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+22,2011,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+23,2011,virgin,Virgin,British,http://en.wikipedia.org/wiki/Virgin_Racing
+24,2011,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+25,2012,caterham,Caterham,Malaysian,http://en.wikipedia.org/wiki/Caterham_F1
+26,2012,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+27,2012,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+28,2012,hrt,HRT,Spanish,http://en.wikipedia.org/wiki/Hispania_Racing
+29,2012,lotus_f1,Lotus F1,British,http://en.wikipedia.org/wiki/Lotus_F1
+30,2012,marussia,Marussia,Russian,http://en.wikipedia.org/wiki/Marussia_F1
+31,2012,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+32,2012,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+33,2012,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+34,2012,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+35,2012,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+36,2012,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+37,2013,caterham,Caterham,Malaysian,http://en.wikipedia.org/wiki/Caterham_F1
+38,2013,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+39,2013,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+40,2013,lotus_f1,Lotus F1,British,http://en.wikipedia.org/wiki/Lotus_F1
+41,2013,marussia,Marussia,Russian,http://en.wikipedia.org/wiki/Marussia_F1
+42,2013,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+43,2013,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+44,2013,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+45,2013,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+46,2013,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+47,2013,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+48,2014,caterham,Caterham,Malaysian,http://en.wikipedia.org/wiki/Caterham_F1
+49,2014,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+50,2014,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+51,2014,lotus_f1,Lotus F1,British,http://en.wikipedia.org/wiki/Lotus_F1
+52,2014,marussia,Marussia,Russian,http://en.wikipedia.org/wiki/Marussia_F1
+53,2014,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+54,2014,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+55,2014,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+56,2014,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+57,2014,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+58,2014,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+59,2015,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+60,2015,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+61,2015,lotus_f1,Lotus F1,British,http://en.wikipedia.org/wiki/Lotus_F1
+62,2015,manor,Manor Marussia,British,http://en.wikipedia.org/wiki/Manor_Motorsport
+63,2015,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+64,2015,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+65,2015,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+66,2015,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+67,2015,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+68,2015,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+69,2016,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+70,2016,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+71,2016,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+72,2016,manor,Manor Marussia,British,http://en.wikipedia.org/wiki/Manor_Motorsport
+73,2016,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+74,2016,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+75,2016,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+76,2016,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+77,2016,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+78,2016,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+79,2016,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+80,2017,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+81,2017,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+82,2017,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+83,2017,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+84,2017,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+85,2017,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+86,2017,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+87,2017,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+88,2017,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+89,2017,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+90,2018,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+91,2018,force_india,Force India,Indian,http://en.wikipedia.org/wiki/Racing_Point_Force_India
+92,2018,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+93,2018,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+94,2018,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+95,2018,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+96,2018,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+97,2018,sauber,Sauber,Swiss,http://en.wikipedia.org/wiki/Sauber
+98,2018,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+99,2018,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+100,2019,alfa,Alfa Romeo,Swiss,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One
+101,2019,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+102,2019,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+103,2019,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+104,2019,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+105,2019,racing_point,Racing Point,British,http://en.wikipedia.org/wiki/Racing_Point_F1_Team
+106,2019,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+107,2019,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+108,2019,toro_rosso,Toro Rosso,Italian,http://en.wikipedia.org/wiki/Scuderia_Toro_Rosso
+109,2019,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+110,2020,alfa,Alfa Romeo,Swiss,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One
+111,2020,alphatauri,AlphaTauri,Italian,http://en.wikipedia.org/wiki/Scuderia_AlphaTauri
+112,2020,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+113,2020,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+114,2020,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+115,2020,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+116,2020,racing_point,Racing Point,British,http://en.wikipedia.org/wiki/Racing_Point_F1_Team
+117,2020,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+118,2020,renault,Renault,French,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+119,2020,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+120,2021,alfa,Alfa Romeo,Swiss,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One
+121,2021,alphatauri,AlphaTauri,Italian,http://en.wikipedia.org/wiki/Scuderia_AlphaTauri
+122,2021,alpine,Alpine F1 Team,French,http://en.wikipedia.org/wiki/Alpine_F1_Team
+123,2021,aston_martin,Aston Martin,British,http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One
+124,2021,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+125,2021,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+126,2021,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+127,2021,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+128,2021,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+129,2021,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+130,2022,alfa,Alfa Romeo,Swiss,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One
+131,2022,alphatauri,AlphaTauri,Italian,http://en.wikipedia.org/wiki/Scuderia_AlphaTauri
+132,2022,alpine,Alpine F1 Team,French,http://en.wikipedia.org/wiki/Alpine_F1_Team
+133,2022,aston_martin,Aston Martin,British,http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One
+134,2022,ferrari,Ferrari,Italian,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+135,2022,haas,Haas F1 Team,American,http://en.wikipedia.org/wiki/Haas_F1_Team
+136,2022,mclaren,McLaren,British,http://en.wikipedia.org/wiki/McLaren
+137,2022,mercedes,Mercedes,German,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+138,2022,red_bull,Red Bull,Austrian,http://en.wikipedia.org/wiki/Red_Bull_Racing
+139,2022,williams,Williams,British,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
